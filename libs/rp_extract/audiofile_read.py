@@ -19,7 +19,7 @@ import uuid
 # scipy.io.wavfile does not support 24 bit Wav files
 # therefore we switch to wavio by Warren Weckesser - https://github.com/WarrenWeckesser/wavio - BSD 3-Clause License
 from . import wavio
-# import wavio
+# import rp_extract.wavio as wavio
 
 
 class DecoderException(Exception):

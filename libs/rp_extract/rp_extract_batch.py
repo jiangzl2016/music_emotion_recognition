@@ -359,6 +359,7 @@ def extract_all_files(filelist,
 
             # read audio file (wav or mp3)
             samplerate, samplewidth, data, decoder = audiofile_read(filename, verbose=verbose, include_decoder=True, no_extension_check=no_extension_check, force_resampling=force_resampling)
+            print(data)
 
             # audio file info
             if verbose: print(samplerate, "Hz,", data.shape[1], "channel(s),", data.shape[0], "samples")
