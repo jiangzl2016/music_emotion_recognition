@@ -7,7 +7,7 @@ ref_paper: <a href = 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8
 
 Notice
 
-The Salient Pitch for High-Frequency Part (> 1kHz) contain a Half-Wave-Rectification <a href = 'https://www.youtube.com/watch?v=Ll0IOk_Ltfc'>see it here</a>, it is not necessarily crucial to do this, hence, we just calculate the Second Peak for ACF(Autocorrelation Function) and it turns out to have the salient pitch within $[70Hz, 10000Hz]$
+The Salient Pitch for High-Frequency Part (> 1kHz) contain a Half-Wave-Rectification <a href = 'https://www.youtube.com/watch?v=Ll0IOk_Ltfc'>see it here</a>, it is not necessarily crucial to do this, hence, we just calculate the Second Peak for ACF(Autocorrelation Function) and it turns out to have the salient pitch within 70 ~ 10000 Hz
 
 
 ## Part 1.1 Emotion Annotation (Kernel Density Estimation)
