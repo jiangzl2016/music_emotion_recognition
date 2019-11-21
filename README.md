@@ -11,4 +11,4 @@ The Salient Pitch for High-Frequency Part (> 1kHz) contain a Half-Wave-Rectifica
 
 
 ## Part 1.1 Emotion Annotation (Kernel Density Estimation)
-
+### Time_average.csv (KDE for averaging time)
